@@ -11,3 +11,6 @@ My role:
 I am the lead UX designer, UX researcher and UI designer for the current task.
 Responsibilities: 
 My responsibilities are to create a wallet design which covers all the needed details and specifications which are mentioned as the problem to the wallet design.
+
+This is the final link to the prototype
+Adobe XD: https://xd.adobe.com/view/827c68a1-d733-43ad-893d-33b86dfeeeeb-d72f/
